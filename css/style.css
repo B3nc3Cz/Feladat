@@ -12,4 +12,9 @@ body{
     font-size: 38px;
     
 }
-.asd{color: red;}
+.asd{color: #1bf5d4;
+    font-style:initial;
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: underline;
+    font-size: 50px;}
