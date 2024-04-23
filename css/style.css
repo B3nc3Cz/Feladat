@@ -49,9 +49,18 @@ body{
         text-decoration: underline;}
 .asd2{margin-left: 30px;
         color: #04b0b0;}
+.asd3{margin-left: -5px;
+            color: #04b0b0;}
+
 .napok{list-style-type: none;
-        }
+        color: #04b0b0;}
 
 .nyitvatartas{ text-decoration: underline;
                 margin-top: 20px;
                 color: #04b0b0;}
+
+.sulyzo{width: 70%;
+        margin-left: 100px;
+        margin-top: 50px;}
+
+.telo{width: 7%;}
