@@ -1,5 +1,7 @@
 body{
-
+ background-image: url(https://cdn.kibrispdr.org/data/78/design-black-background-28.jpg);
+ background-position: right;
+ background-repeat: repeat-y;
 }
 .bigbody{
     color: #36f7f7;
@@ -37,4 +39,19 @@ body{
          
 
 .kepnev{text-align: center;
-        color: red;}
+        color: red;
+        text-decoration:underline;}
+
+.szoveg{color: #1bf5d4}
+.asd1{
+        margin-top: 30px;
+        color: #04b0b0;
+        text-decoration: underline;}
+.asd2{margin-left: 30px;
+        color: #04b0b0;}
+.napok{list-style-type: none;
+        }
+
+.nyitvatartas{ text-decoration: underline;
+                margin-top: 20px;
+                color: #04b0b0;}
