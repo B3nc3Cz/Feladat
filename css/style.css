@@ -15,6 +15,26 @@ body{
 .asd{color: #1bf5d4;
     font-style:initial;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 20px;
     text-decoration: underline;
     font-size: 40px;}
+
+.elerheto{ color: red;
+            text-align: left;
+            padding: 50px;
+            padding-left: 0px;}
+
+.dolgozok{ color: red;
+             text-align: right;
+             padding: 50px;}
+
+.kepek{
+         height: 500px ;
+         width: 500px;}
+
+.img-thumbnail{background-color: #212529;
+                border: none;}        
+         
+
+.kepnev{text-align: center;
+        color: red;}
