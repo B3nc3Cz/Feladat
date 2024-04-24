@@ -64,3 +64,23 @@ body{
         margin-top: 50px;}
 
 .telo{width: 7%;}
+
+
+
+.szin{color: #1bf5d4;}
+
+
+.leiras{color: #1bf5d4;
+        font-style: italic;
+        text-align: justify;
+        font-size: 1.3rem;}
+
+.Szemely1{float: right;
+          height: 250px;}
+
+
+.kepnev1{text-align: center;
+        color: red;
+        text-decoration: underline;}
+
+.felsor{color: #1bf5d4;}
